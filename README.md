@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Harish Nanthan! 👋
 
-<!--
-**harishnanthan/harishnanthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend engineer with 2 years of experience, passionate about building intuitive and engaging user experiences. At [Tekion](https://tekion.com), I specialize in:
 
-Here are some ideas to get you started:
+- Architecting large-scale web applications
+- Optimizing performance
+- Turning design ideas into interactive prototypes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love coming up with fresh ideas and exploring creative ways to solve technical challenges.
+
+### A bit about me:
+- I have a soft spot for Go and C++, but JavaScript holds a special place in my heart.
+- Recently, I’ve been diving into backend engineering, focusing on designing, developing, and maintaining well-structured APIs.
+- I believe user empathy is key to creating APIs that provide a seamless experience for everyone.
+
+You can find me online at [harishnanthan.vercel.app](https://harishnanthan.vercel.app). Feel free to reach out:
+
+- 📧 Email: [harishnanthans@gmail.com](mailto:harishnanthans@gmail.com)
+- 🐦 X: [@harishnanthans](https://x.com/harishnanthans)
+
+Thanks for stopping by! 😊
